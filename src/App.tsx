@@ -4,6 +4,7 @@ import './App.css';
 import { getAllBrunchRestaurants } from './api';
 import brunchRestaurants from './data/brunch-restaurants.json';
 
+// Right now, just brunch restaurants
 const App: React.FC = () => {
   // useEffect(() => {
   //   async function fetchRestaurants() {
@@ -14,19 +15,19 @@ const App: React.FC = () => {
   //   fetchRestaurants();
   // }, []);
 
-  console.log(brunchRestaurants);
+  // console.log(brunchRestaurants);
 
   return (
     <div className="App">
       <ul>
         {brunchRestaurants.map(restaurant => {
           return (
-            <li>
+            <li key={restaurant.data_nid}>
               <a href={`https://mtlatable.mtl.org/en/${restaurant.url}`}>{restaurant.title}</a>
             </li>
           );
         })}
-        </ul>
+      </ul>
     </div>
   );
 }

@@ -55,9 +55,7 @@ async function getRestaurants(params?: GetRestaurantsParams, test = false, page 
 export async function getAllBrunchRestaurants(): Promise<Restaurant[]> {
 	// Get first page to calculate how many pages are in the API
 	let restaurantData = await getRestaurants();
-	console.log(restaurantData);
 	const pageCount = calculatePageCount(restaurantData);
-	console.log('pageCount: ', pageCount);
 	const brunchRestaurants: Restaurant[] = [];
 
 	for (let i = 0; i <= pageCount; i++) {
@@ -68,10 +66,8 @@ export async function getAllBrunchRestaurants(): Promise<Restaurant[]> {
 		})
 
 		restaurantData = await getRestaurants({ page: i });
-		console.log(i, restaurantData)
 
 		if (restaurantData.hits.length === 0) {
-			console.log('hits is 0, exiting');
 			break;
 		}
 	}
