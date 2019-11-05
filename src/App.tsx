@@ -45,12 +45,12 @@ const App: React.FC = () => {
       <Grid container className={classes.root} spacing={2}>
         {brunchRestaurants.map(restaurant => {
           return (
-            <Grid item xs={3} key={restaurant.data_nid}>
+            <Grid item xs={12} sm={3} key={restaurant.data_nid}>
               <RestaurantCard
                 image={restaurant.background_image_url}
                 title={restaurant.title}
                 description={restaurant.summary || ""}
-                link={`https://mtlatable.mtl.org/en/${restaurant.url}`}
+                link={`https://mtlatable.mtl.org${restaurant.url}`}
               />
             </Grid>
           );
