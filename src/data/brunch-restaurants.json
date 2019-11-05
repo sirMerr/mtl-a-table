@@ -332,33 +332,6 @@
     "specials": "aeroplan,brunch,gluten_free,vegetarian"
   },
   {
-    "data_nid": "3046",
-    "ecm_uuid": "b48c3ac6-48ef-467d-864b-1d51418b924b",
-    "url": "/en/restaurants/fiche-cafe-le-petit-flore",
-    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/31554H.jpg?itok=EGwX0j7s",
-    "title": "Café Le Petit Flore",
-    "surtitle": "France",
-    "summary": "Le Petit Flore serves up a bistro menu along with wines and beers in a warm, welcoming environment. Takeout is also available.",
-    "main_category_id": "ParCat-Gastronomie",
-    "neighborhood_id": [
-      "GenLoc-Nord-I"
-    ],
-    "legal_name": "Café Le Petit Flore",
-    "price": "$33",
-    "cookingtype": [
-      "ParCuis-R-France"
-    ],
-    "parent_product_nid": null,
-    "aeroplan": "0",
-    "brunch": "1",
-    "byow": false,
-    "cacao_barry": "0",
-    "gluten_free": "1",
-    "vegan": "0",
-    "vegetarian": "1",
-    "specials": "brunch,gluten_free,vegetarian"
-  },
-  {
     "data_nid": "2736",
     "ecm_uuid": "47d84bcf-abe8-4ae1-8f96-38f2736711ce",
     "url": "/en/restaurants/fiche-mechant-boeuf-bar-brasserie",
@@ -442,34 +415,6 @@
     "specials": "aeroplan,brunch,gluten_free,vegetarian"
   },
   {
-    "data_nid": "2926",
-    "ecm_uuid": "0d89b7f7-50b4-42e8-9345-df6b0e33ec16",
-    "url": "/en/restaurants/fiche-venice-mtl-saint-henri-montreal",
-    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/38971.jpg?itok=Nd7eMTuY",
-    "title": "Venice MTL Saint-Henri",
-    "surtitle": "North America, New Cuisine",
-    "summary": "Venice MTL brings the sunny west coast vibe to Saint-Henri with California-style cuisine served in an eclectic, boho-chic atmosphere.",
-    "main_category_id": "ParCat-Gastronomie",
-    "neighborhood_id": [
-      "GenLoc-QCanalSH"
-    ],
-    "legal_name": "Venice MTL Saint-Henri",
-    "price": "$23",
-    "cookingtype": [
-      "ParCuis-R-AmeriqueNord",
-      "ParCuis-R-NouvelleCuisine"
-    ],
-    "parent_product_nid": null,
-    "aeroplan": "0",
-    "brunch": "1",
-    "byow": false,
-    "cacao_barry": "0",
-    "gluten_free": "1",
-    "vegan": "1",
-    "vegetarian": "1",
-    "specials": "brunch,gluten_free,vegan,vegetarian"
-  },
-  {
     "data_nid": "3376",
     "ecm_uuid": "30a0b6ae-1d33-4e23-8cdd-2a21d0f19704",
     "url": "/en/restaurants/fiche-taverne-gaspar",
@@ -524,33 +469,6 @@
     "vegan": "0",
     "vegetarian": "1",
     "specials": "aeroplan,brunch,vegetarian"
-  },
-  {
-    "data_nid": "2736",
-    "ecm_uuid": "47d84bcf-abe8-4ae1-8f96-38f2736711ce",
-    "url": "/en/restaurants/fiche-mechant-boeuf-bar-brasserie",
-    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/43785.jpg?itok=a9A0SPCO",
-    "title": "Méchant Boeuf Bar-Brasserie",
-    "surtitle": "North America",
-    "summary": "Beef is the house specialty but the menu has a flair for the cosmopolitan and the food is delicious.",
-    "main_category_id": "ParCat-Gastronomie",
-    "neighborhood_id": [
-      "GenLoc-VieuxMtl"
-    ],
-    "legal_name": "Méchant Boeuf Bar-Brasserie",
-    "price": "$33",
-    "cookingtype": [
-      "ParCuis-R-AmeriqueNord"
-    ],
-    "parent_product_nid": null,
-    "aeroplan": "0",
-    "brunch": "1",
-    "byow": false,
-    "cacao_barry": "0",
-    "gluten_free": "1",
-    "vegan": "0",
-    "vegetarian": "1",
-    "specials": "brunch,gluten_free,vegetarian"
   },
   {
     "data_nid": "2936",
