@@ -1,24 +1,32 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { getAllBrunchRestaurants } from './api';
+import brunchRestaurants from './data/brunch-restaurants.json';
 
 const App: React.FC = () => {
+  // useEffect(() => {
+  //   async function fetchRestaurants() {
+  //     const restaurants = await getAllBrunchRestaurants();
+
+  //     console.log(restaurants)
+  //   }
+  //   fetchRestaurants();
+  // }, []);
+
+  console.log(brunchRestaurants);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ul>
+        {brunchRestaurants.map(restaurant => {
+          return (
+            <li>
+              <a href={`https://mtlatable.mtl.org/en/${restaurant.url}`}>{restaurant.title}</a>
+            </li>
+          );
+        })}
+        </ul>
     </div>
   );
 }

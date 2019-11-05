@@ -1,0 +1,813 @@
+[
+  {
+    "data_nid": "3046",
+    "ecm_uuid": "b48c3ac6-48ef-467d-864b-1d51418b924b",
+    "url": "/en/restaurants/fiche-cafe-le-petit-flore",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/31554H.jpg?itok=EGwX0j7s",
+    "title": "Café Le Petit Flore",
+    "surtitle": "France",
+    "summary": "Le Petit Flore serves up a bistro menu along with wines and beers in a warm, welcoming environment. Takeout is also available.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-Nord-I"
+    ],
+    "legal_name": "Café Le Petit Flore",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-France"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2466",
+    "ecm_uuid": "37f7de5d-74ef-4a42-82dc-8582fe1dacfd",
+    "url": "/en/restaurants/fiche-les-fillettes-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/43667.jpeg?itok=yULKlaAY",
+    "title": "Les Fillettes",
+    "surtitle": "France, Québec",
+    "summary": "A neighbourhood bistro with a menu featuring local and fresh produce, and a wine list of carefully selected items.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-MtRoy"
+    ],
+    "legal_name": "9318-2665 Québec Inc.",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-France",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "1",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,cacao_barry,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2706",
+    "ecm_uuid": "8cbd02c6-3a56-4ffb-a96c-de521bc1fedc",
+    "url": "/en/restaurants/fiche-restaurant-su",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/15011H.JPG?itok=zafCMVgA",
+    "title": "Restaurant Su",
+    "surtitle": "Mediterranean",
+    "summary": "Open since 2006, Restaurant Su bridges the cuisine of the Far East and the Mediterranean, offering a wide range of Turkish specialties.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-PoleRapid"
+    ],
+    "legal_name": "Restaurant Su",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-Mediterrane"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3066",
+    "ecm_uuid": "3689ba90-2c75-45fe-9c00-c4ae70b1cae6",
+    "url": "/en/restaurants/fiche-caribou-gourmand-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/35848.jpg?itok=xUR6rBjR",
+    "title": "Caribou gourmand",
+    "surtitle": "North America, France, Québec",
+    "summary": "Québec, a touch of Normandy, and a love of food come together in this cozy restaurant.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-Plateau"
+    ],
+    "legal_name": "9336-9387 Québec Inc.",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-France",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "1",
+    "gluten_free": "0",
+    "vegan": "0",
+    "vegetarian": "0",
+    "specials": "brunch,cacao_barry"
+  },
+  {
+    "data_nid": "2786",
+    "ecm_uuid": "fd3d3b28-de35-4e84-b166-25f5089be530",
+    "url": "/en/restaurants/fiche-rosewood-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/31645H.JPG?itok=-1f5hEjI",
+    "title": "Rosewood",
+    "surtitle": "North America",
+    "summary": "Gourmet pub food from locally sourced ingredients with global inspiration.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Rosewood",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3276",
+    "ecm_uuid": "cda02bae-2676-4cae-9299-a423f12c9b0a",
+    "url": "/en/restaurants/fiche-hoogan-et-beaufort-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/39453_1.jpg?itok=6QexDjor",
+    "title": "Hoogan et Beaufort",
+    "surtitle": "North America, France, New Cuisine",
+    "summary": null,
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-HoMa"
+    ],
+    "legal_name": "Hoogan et Beaufort",
+    "price": "$43",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-France",
+      "ParCuis-R-NouvelleCuisine"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "1",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,cacao_barry,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3066",
+    "ecm_uuid": "3689ba90-2c75-45fe-9c00-c4ae70b1cae6",
+    "url": "/en/restaurants/fiche-caribou-gourmand-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/35848.jpg?itok=xUR6rBjR",
+    "title": "Caribou gourmand",
+    "surtitle": "North America, France, Québec",
+    "summary": "Québec, a touch of Normandy, and a love of food come together in this cozy restaurant.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-Plateau"
+    ],
+    "legal_name": "9336-9387 Québec Inc.",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-France",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "1",
+    "gluten_free": "0",
+    "vegan": "0",
+    "vegetarian": "0",
+    "specials": "brunch,cacao_barry"
+  },
+  {
+    "data_nid": "3496",
+    "ecm_uuid": "560d42e7-884e-4a6a-88f0-a0fd74f3b93f",
+    "url": "/en/restaurants/fiche-fiorellino-laurier-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/4_0.jpg?itok=2S4sZUO4",
+    "title": "Fiorellino Laurier",
+    "surtitle": "Italy",
+    "summary": "Authentic cuisine fills the tables in this Italian snack bar where portions are generous, ingredients are fresh and sharing is encouraged!",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-MtRoy"
+    ],
+    "legal_name": "9369 2895 QC inc",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-Italie"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "0",
+    "vegan": "0",
+    "vegetarian": "0",
+    "specials": "brunch"
+  },
+  {
+    "data_nid": "2926",
+    "ecm_uuid": "0d89b7f7-50b4-42e8-9345-df6b0e33ec16",
+    "url": "/en/restaurants/fiche-venice-mtl-saint-henri-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/38971.jpg?itok=Nd7eMTuY",
+    "title": "Venice MTL Saint-Henri",
+    "surtitle": "North America, New Cuisine",
+    "summary": "Venice MTL brings the sunny west coast vibe to Saint-Henri with California-style cuisine served in an eclectic, boho-chic atmosphere.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-QCanalSH"
+    ],
+    "legal_name": "Venice MTL Saint-Henri",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-NouvelleCuisine"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "1",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegan,vegetarian"
+  },
+  {
+    "data_nid": "3526",
+    "ecm_uuid": "f7e41680-8193-430a-ade0-06aea794c8ba",
+    "url": "/en/restaurants/fiche-alexandre-et-fils",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/15039H.jpg?itok=oSGb7czo",
+    "title": "Alexandre et fils",
+    "surtitle": "France",
+    "summary": "Treat yourself to the cuisine of a French brasserie served in a Parisian atmosphere.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-MCarre"
+    ],
+    "legal_name": "Alexandre et fils",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-France"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "0",
+    "vegan": "0",
+    "vegetarian": "0",
+    "specials": "brunch"
+  },
+  {
+    "data_nid": "1926",
+    "ecm_uuid": "6956ac42-c1f5-4186-8e97-27ff85abc18d",
+    "url": "/en/restaurants/fiche-jacopo-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/JACOPO-JFGALIPEAU-014_0.jpg?itok=C6xfiukI",
+    "title": "Jacopo",
+    "surtitle": "Italy",
+    "summary": "Feast like a Roman on fresh pasta, roasted meats, cheese and more at this authentic Italian trattoria in the heart of Old Montréal.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Jacopo",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-Italie"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2796",
+    "ecm_uuid": "4ebcd9b2-9ada-4611-ac64-e3d75017093d",
+    "url": "/en/restaurants/fiche-modavie-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/20354H.jpg?itok=fcGfXjeH",
+    "title": "Modavie",
+    "surtitle": "France, Mediterranean",
+    "summary": "A unique Mediterranean culinary experience, Modavie in Old Montréal serves traditional cuisine with an international flair to the sound of live jazz.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Modavie",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-France",
+      "ParCuis-R-Mediterrane"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2486",
+    "ecm_uuid": "a57b991b-6dc4-4512-8e59-e1eb14b978f9",
+    "url": "/en/restaurants/fiche-l-estaminet-cafe-bistro-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/35841.jpg?itok=BbWNF9XK",
+    "title": "L'Estaminet",
+    "surtitle": "France, Mediterranean",
+    "summary": "Open since 1985, L'Estaminet has set the standard for bistro fare in the north district of the city.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-Nord-I"
+    ],
+    "legal_name": "L'Estaminet",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-France",
+      "ParCuis-R-Mediterrane"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "1",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "aeroplan,brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3276",
+    "ecm_uuid": "cda02bae-2676-4cae-9299-a423f12c9b0a",
+    "url": "/en/restaurants/fiche-hoogan-et-beaufort-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/39453_1.jpg?itok=6QexDjor",
+    "title": "Hoogan et Beaufort",
+    "surtitle": "North America, France, New Cuisine",
+    "summary": null,
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-HoMa"
+    ],
+    "legal_name": "Hoogan et Beaufort",
+    "price": "$43",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-France",
+      "ParCuis-R-NouvelleCuisine"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "1",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,cacao_barry,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3046",
+    "ecm_uuid": "b48c3ac6-48ef-467d-864b-1d51418b924b",
+    "url": "/en/restaurants/fiche-cafe-le-petit-flore",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/31554H.jpg?itok=EGwX0j7s",
+    "title": "Café Le Petit Flore",
+    "surtitle": "France",
+    "summary": "Le Petit Flore serves up a bistro menu along with wines and beers in a warm, welcoming environment. Takeout is also available.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-Nord-I"
+    ],
+    "legal_name": "Café Le Petit Flore",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-France"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2736",
+    "ecm_uuid": "47d84bcf-abe8-4ae1-8f96-38f2736711ce",
+    "url": "/en/restaurants/fiche-mechant-boeuf-bar-brasserie",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/43785.jpg?itok=a9A0SPCO",
+    "title": "Méchant Boeuf Bar-Brasserie",
+    "surtitle": "North America",
+    "summary": "Beef is the house specialty but the menu has a flair for the cosmopolitan and the food is delicious.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Méchant Boeuf Bar-Brasserie",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2626",
+    "ecm_uuid": "2cab4b3a-7328-4f94-aa10-6a915e2a15fc",
+    "url": "/en/restaurants/fiche-bistro-le-ste-cath-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/30403H.jpg?itok=p0kek3Wl",
+    "title": "Bistro Le Ste-Cath",
+    "surtitle": "North America, New Cuisine, Québec",
+    "summary": "A family bistro that brings together the culinary, visual, and performing arts for a unique dining experience.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-HoMa"
+    ],
+    "legal_name": "Bistro Le Ste-Cath",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-NouvelleCuisine",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "1",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "aeroplan,brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2796",
+    "ecm_uuid": "4ebcd9b2-9ada-4611-ac64-e3d75017093d",
+    "url": "/en/restaurants/fiche-modavie-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/20354H.jpg?itok=fcGfXjeH",
+    "title": "Modavie",
+    "surtitle": "France, Mediterranean",
+    "summary": "A unique Mediterranean culinary experience, Modavie in Old Montréal serves traditional cuisine with an international flair to the sound of live jazz.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Modavie",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-France",
+      "ParCuis-R-Mediterrane"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3296",
+    "ecm_uuid": "c98fcd24-d182-4aa2-a581-58fcb43d3649",
+    "url": "/en/restaurants/fiche-ibericos-spanish-tapas-tavern-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/33980.jpg?itok=KCQ0pQjF",
+    "title": "IBERICOS Spanish tapas tavern",
+    "surtitle": "Mediterranean",
+    "summary": "Spanish charcuterie and fine products are in the spotlight, in a warm and cozy setting, typical of those tapas taverns in Barcelona or Madrid....",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-Plateau"
+    ],
+    "legal_name": "Produits Fins Madrid Barcelona",
+    "price": "$43",
+    "cookingtype": [
+      "ParCuis-R-Mediterrane"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "1",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "aeroplan,brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2926",
+    "ecm_uuid": "0d89b7f7-50b4-42e8-9345-df6b0e33ec16",
+    "url": "/en/restaurants/fiche-venice-mtl-saint-henri-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/38971.jpg?itok=Nd7eMTuY",
+    "title": "Venice MTL Saint-Henri",
+    "surtitle": "North America, New Cuisine",
+    "summary": "Venice MTL brings the sunny west coast vibe to Saint-Henri with California-style cuisine served in an eclectic, boho-chic atmosphere.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-QCanalSH"
+    ],
+    "legal_name": "Venice MTL Saint-Henri",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-NouvelleCuisine"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "1",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegan,vegetarian"
+  },
+  {
+    "data_nid": "3276",
+    "ecm_uuid": "cda02bae-2676-4cae-9299-a423f12c9b0a",
+    "url": "/en/restaurants/fiche-hoogan-et-beaufort-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/39453_1.jpg?itok=6QexDjor",
+    "title": "Hoogan et Beaufort",
+    "surtitle": "North America, France, New Cuisine",
+    "summary": null,
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-HoMa"
+    ],
+    "legal_name": "Hoogan et Beaufort",
+    "price": "$43",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-France",
+      "ParCuis-R-NouvelleCuisine"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "1",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,cacao_barry,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3376",
+    "ecm_uuid": "30a0b6ae-1d33-4e23-8cdd-2a21d0f19704",
+    "url": "/en/restaurants/fiche-taverne-gaspar",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/43786.jpg?itok=Ymo2rcLg",
+    "title": "Taverne Gaspar",
+    "surtitle": "North America",
+    "summary": "Taverne Gaspar in Old Montréal features accessible comfort food and local beer on tap in a genuinely inviting atmosphere.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Taverne Gaspar",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2446",
+    "ecm_uuid": "928959b1-656f-40b6-b705-4d5392f55f37",
+    "url": "/en/restaurants/fiche-les-enfants-terribles-cantine-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/Les-Enfants-Terribles-Cantine-4_0.png?itok=aqgKTBPQ",
+    "title": "Les Enfants Terribles — Cantine",
+    "surtitle": "North America, New Cuisine, Québec",
+    "summary": "Naughty is a good thing at this downtown Cantine offering lunch, brunch and dinner plus private event catering.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-MCarre"
+    ],
+    "legal_name": "9356-6263 Quebec Inc",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-NouvelleCuisine",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "1",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "0",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "aeroplan,brunch,vegetarian"
+  },
+  {
+    "data_nid": "2796",
+    "ecm_uuid": "4ebcd9b2-9ada-4611-ac64-e3d75017093d",
+    "url": "/en/restaurants/fiche-modavie-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/20354H.jpg?itok=fcGfXjeH",
+    "title": "Modavie",
+    "surtitle": "France, Mediterranean",
+    "summary": "A unique Mediterranean culinary experience, Modavie in Old Montréal serves traditional cuisine with an international flair to the sound of live jazz.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Modavie",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-France",
+      "ParCuis-R-Mediterrane"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2736",
+    "ecm_uuid": "47d84bcf-abe8-4ae1-8f96-38f2736711ce",
+    "url": "/en/restaurants/fiche-mechant-boeuf-bar-brasserie",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/43785.jpg?itok=a9A0SPCO",
+    "title": "Méchant Boeuf Bar-Brasserie",
+    "surtitle": "North America",
+    "summary": "Beef is the house specialty but the menu has a flair for the cosmopolitan and the food is delicious.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Méchant Boeuf Bar-Brasserie",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "3066",
+    "ecm_uuid": "3689ba90-2c75-45fe-9c00-c4ae70b1cae6",
+    "url": "/en/restaurants/fiche-caribou-gourmand-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/35848.jpg?itok=xUR6rBjR",
+    "title": "Caribou gourmand",
+    "surtitle": "North America, France, Québec",
+    "summary": "Québec, a touch of Normandy, and a love of food come together in this cozy restaurant.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-Plateau"
+    ],
+    "legal_name": "9336-9387 Québec Inc.",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-France",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "1",
+    "gluten_free": "0",
+    "vegan": "0",
+    "vegetarian": "0",
+    "specials": "brunch,cacao_barry"
+  },
+  {
+    "data_nid": "2936",
+    "ecm_uuid": "4f2a304f-820e-4362-92a3-bcb2b2dc86e8",
+    "url": "/en/restaurants/fiche-verses-bistro-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-10/43787.jpg?itok=plVcAYGI",
+    "title": "Verses Bistro",
+    "surtitle": "North America, France",
+    "summary": "Verses Bistro offers fresh and refined cuisine inspired by Montréal gastronomy.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-VieuxMtl"
+    ],
+    "legal_name": "Verses Bistro",
+    "price": "$33",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-France"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "0",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "brunch,gluten_free,vegetarian"
+  },
+  {
+    "data_nid": "2446",
+    "ecm_uuid": "928959b1-656f-40b6-b705-4d5392f55f37",
+    "url": "/en/restaurants/fiche-les-enfants-terribles-cantine-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/Les-Enfants-Terribles-Cantine-4_0.png?itok=aqgKTBPQ",
+    "title": "Les Enfants Terribles — Cantine",
+    "surtitle": "North America, New Cuisine, Québec",
+    "summary": "Naughty is a good thing at this downtown Cantine offering lunch, brunch and dinner plus private event catering.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-MCarre"
+    ],
+    "legal_name": "9356-6263 Quebec Inc",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-NouvelleCuisine",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "1",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "0",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "aeroplan,brunch,vegetarian"
+  },
+  {
+    "data_nid": "2626",
+    "ecm_uuid": "2cab4b3a-7328-4f94-aa10-6a915e2a15fc",
+    "url": "/en/restaurants/fiche-bistro-le-ste-cath-montreal",
+    "background_image_url": "https://mtlatable.mtl.org/sites/mtlatable/files/styles/product/public/2019-09/30403H.jpg?itok=p0kek3Wl",
+    "title": "Bistro Le Ste-Cath",
+    "surtitle": "North America, New Cuisine, Québec",
+    "summary": "A family bistro that brings together the culinary, visual, and performing arts for a unique dining experience.",
+    "main_category_id": "ParCat-Gastronomie",
+    "neighborhood_id": [
+      "GenLoc-HoMa"
+    ],
+    "legal_name": "Bistro Le Ste-Cath",
+    "price": "$23",
+    "cookingtype": [
+      "ParCuis-R-AmeriqueNord",
+      "ParCuis-R-NouvelleCuisine",
+      "ParCuis-R-Quebec"
+    ],
+    "parent_product_nid": null,
+    "aeroplan": "1",
+    "brunch": "1",
+    "byow": false,
+    "cacao_barry": "0",
+    "gluten_free": "1",
+    "vegan": "0",
+    "vegetarian": "1",
+    "specials": "aeroplan,brunch,gluten_free,vegetarian"
+  }
+]
